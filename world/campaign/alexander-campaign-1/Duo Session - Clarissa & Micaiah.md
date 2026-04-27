@@ -1,0 +1,10 @@
+# Duo Session - Clarissa & Micaiah
+
+- **1-3: Missing Fishing Nets:** Several valuable fishing nets have gone missing from the docks. The local fishermen suspect theft or sabotage. Investigating could lead to disgruntled rivals, mischievous sprites, or even a territorial underwater creature.
+- **4-6: Strange Tides:** The tides are behaving erratically, causing minor flooding in the lower districts and disrupting fishing schedules. The Order of the Azure Current suspects a magical imbalance and requests assistance in identifying the cause.
+- **7-9: Dockside Dispute:** A heated argument has erupted between two merchant families over docking rights. Their escalating feud threatens to disrupt trade and could spill into violence. The players might be asked to mediate or take sides.
+- **10-12: Sickly Coral:** A section of the vibrant coral gardens near the Hua Shan is showing signs of decay. The local reef tenders are worried about the impact on the ecosystem and seek help in finding a cure. This could involve collecting samples or dealing with a polluting source.
+- **13-15: Whispers in the Monastery:** The Silent Wave Monks have been disturbed by unsettling whispers echoing through their mountain retreat. They believe a malevolent spirit or entity has taken root and request aid in dispelling it.
+- **16-18: Stolen Relic:** A minor but culturally significant artifact has been stolen from a small shrine on the Hua Shan. The local priest pleads for its return, offering a small reward. Tracking the thief could lead to the Shadow Koi Guild or a misguided collector.
+- **19: Blocked Canal:** A large piece of debris (perhaps a sunken fishing vessel or a collapsed section of a platform) is blocking a vital canal, hindering trade and travel. The city council offers a reward for its removal.
+- **20: Feral Water Dogs:** Packs of semi-aquatic dogs have become increasingly aggressive, scavenging for food and occasionally attacking citizens near the water's edge. The town guard is overwhelmed and seeks assistance in dealing with the nuisance.

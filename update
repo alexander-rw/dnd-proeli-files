@@ -1,0 +1,18 @@
+#!/bin/sh
+
+tree ./important-files > ./important-files/tree.md
+
+CHANGES_EXIST="$(git status --porcelain | wc -l)"
+
+
+if [ $CHANGES_EXIST -eq 0 ]
+then
+  echo "No local changes detected"
+  exit 0
+fi
+
+git pull
+git add .
+git commit -m "Syncing files: $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+git push
+exit 1

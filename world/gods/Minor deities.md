@@ -1,0 +1,4 @@
+# Minor deities
+
+- TBD
+    -
