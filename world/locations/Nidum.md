@@ -69,7 +69,7 @@ Gravenhollow’s Lock is a heavily fortified underground city built atop a massi
 
 ---
 
-![image.png](Nidum/image.png)
+![[Nidum.png]]
 
 ## [The Hand](../Non%20Player%20Characters%20(NPCs)/The%20Hand%201e4c7339ad0580ee9b9fedd056cbf408.md)
 

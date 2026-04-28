@@ -1,6 +1,6 @@
 # First Map
 
-![image.png](First%20Map/image.png)
+![[First Map.png]]
 
 - Purple circles are spheres of influence
 - Colours are the different nations

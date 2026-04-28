@@ -2,6 +2,6 @@
 
 I’d like to re-use part of the campaign for my group around the `runespeaker` - Pic below - thoughts?
 
-![image.png](Creatures/image.png)
+![[Creatures.png]]
 
-![image.png](Creatures/image%201.png)
+![[Creatures 1.png]]

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/campaign/alexander-campaign-1/Session 1 - Into The Deep End.md",
-                "mode": "preview",
+                "file": "world/campaign/alexander-campaign-1/Session 32 - Fighting a vampire in the night.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 - Into The Deep End"
+              "title": "Session 32 - Fighting a vampire in the night"
+            }
+          },
+          {
+            "id": "c0705781dfe73c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/misc/Sea Travel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sea Travel"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "union",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 421.5
   },
   "right": {
     "id": "bbbce0cfbaedfc17",
@@ -164,13 +178,23 @@
               "icon": "lucide-list",
               "title": "Outline of The World of Proeli 19dc7339ad058069bc47ce183954e46d"
             }
+          },
+          {
+            "id": "bce062dace1498b5",
+            "type": "leaf",
+            "state": {
+              "type": "archivist-inquiry",
+              "state": {},
+              "icon": "bot",
+              "title": "Archivist Inquiry"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,53 +209,53 @@
       "archivist-gg:Open Archivist Inquiry": false
     }
   },
-  "active": "5f2ab2cbdcf81908",
+  "active": "ee77c0a1fc3d40d6",
   "lastOpenFiles": [
+    "world/campaign/alexander-campaign-1/Session 30 31 - There once was a fish.md",
+    "world/campaign/alexander-campaign-1/Session 32 - Fighting a vampire in the night.md",
+    "world/misc/Sea Travel.md",
+    "world/campaign/alexander-campaign-1/Duo Session - Clarissa & Micaiah.md",
+    "world/campaign/alexander-campaign-1/Duo Session - Morden & Droo.md",
     "world/campaign/alexander-campaign-1/Arcs - Durgam.md",
-    "world/campaign/alexander-campaign-1/Alexander Campaign outline notes.md",
-    "world/campaign/alexander-campaign-1/outline/Campaign outline.md",
-    "world/Lyndom Tailor’s shop.md",
-    "world/campaign/alexander-campaign-1/Session 4 - I’m not scared, I’m frustrated.md",
-    "world/campaign/Alexander Campaign 1 - Session Notes.md",
-    "world/campaign/Evie Campaign Notes.md",
-    "world/campaign/_index.md",
-    "Alexander Reyes-Wainwright's Notion HQ/19dc7339ad0581b883ba00423a419657/The World of Proeli/Aidan’s city ideas [In Progress] 1dac7339ad0580f69eb6ed885eb202af.md",
-    "Compendium/SRD/Conditions/Stunned.md",
-    "world/Aidan’s city ideas [In Progress].md",
     "world/misc/Aidan’s city ideas.md",
-    "world/characters/npcs/Jezekiah Erivo.md",
-    "world/maps/_index.md",
-    "world/gods/_index.md",
-    "world/characters/players/_index.md",
-    "world/characters/npcs/_index.md",
+    "world/campaign/alexander-campaign-1/Session 28 29 - The Aftermath.md",
+    "world/campaign/alexander-campaign-1/Session 26 - The Man in White.md",
+    "world/campaign/alexander-campaign-1/Session 27 - The Man in White (2).md",
+    "world/misc/Table of languages.md",
+    "world/campaign/one-shots",
+    "world/misc/things to chat about 17apr.md",
+    "world/gods/Nevermore, the Shadow Fiend.md",
+    "world/locations/The Labyrinth of the Wyrm Countess.md",
+    "world/img/Nevermore, the Shadow Fiend.png",
+    "world/img/Creatures.png",
+    "world/img/Creatures 1.png",
+    "world/img/Deegho.png",
+    "world/img/Nan the barkeep.png",
+    "world/img/Nidum.png",
+    "world/img/Loudwater.png",
+    "world/img/Crossings.png",
+    "world/img/The Labyrinth of the Wyrm Countess.png",
+    "world/img/Ilkazan.png",
+    "world/img",
+    "img",
+    "world/misc/plans/Miscellaneous ideas.md",
     "world/misc/_index.md",
-    "world/locations/_index.md",
-    "world/history/_index.md",
-    "Compendium/SRD/Classes/Rogue.md",
-    "Compendium/SRD/Classes/Bard.md",
-    "Compendium/SRD/Backgrounds/Acolyte.md",
-    "world/The World of Proeli.md",
-    "world/Jezekiah Erivo.md",
-    "world/maps/First Map/image.png",
+    "world/misc/plans/Campaign ideas.md",
+    "world/locations/The World of Proeli.md",
+    "CLAUDE.md",
+    "world/gods/Kord.md",
+    "world/gods/Minor deities.md",
+    "world/gods/Karion.md",
+    "world/gods/Gartax.md",
+    "world/gods/_index.md",
+    "world/history/timeline/Hawksreach Founding.md",
+    "world/history/timeline/Keepers officially created.md",
     "world/maps/First Map",
-    "world/maps/First Map.md",
     "world/maps",
     "world/history/timeline",
     "world/history/World Timeline Database_all.csv",
     "world/history/World Timeline Database.csv",
     "world/history",
-    "world/locations/Nidum/Untitled.csv",
-    "world/locations/Nidum/image.png",
-    "world/locations/Nidum/Commorragh",
-    "world/locations/Nidum",
-    "world/locations/City States of Proeli/Loudwater/image.png",
-    "world/locations/City States of Proeli/Frostmark/image.png",
-    "world/locations/City States of Proeli/Crossings/image.png",
-    "world/locations/The Labyrinth of the Wyrm Countess/Screenshot_2025-08-25_at_14.45.41.png",
-    "world/locations/Durgam/image.png",
-    "world/locations/Ilkazan/image.png",
-    "world/locations/Ilkazan/Hawksreach",
-    "world/locations/City States of Proeli/image.png",
-    "world/characters/npcs/Nan the barkeep/image.png"
+    "world/locations/Nidum/Untitled.csv"
   ]
 }

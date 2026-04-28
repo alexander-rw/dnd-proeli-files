@@ -16,7 +16,7 @@ Nevermore appears as a dark, demonic humanoid-shaped creature. Its hands are lar
 
  
 
-![image.png](Nevermore,%20the%20Shadow%20Fiend/image.png)
+![[Nevermore, the Shadow Fiend.png]]
 
 ## Abilities
 

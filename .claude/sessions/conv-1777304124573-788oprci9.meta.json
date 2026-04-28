@@ -1,0 +1,19 @@
+{
+  "id": "conv-1777304124573-788oprci9",
+  "title": "Suggest next campaign moves",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777304124610,
+  "updatedAt": 1777304152442,
+  "lastResponseAt": 1777304152442,
+  "sessionId": "1533816d-21a5-4168-8871-8dcdce1413eb",
+  "sdkSessionId": "1533816d-21a5-4168-8871-8dcdce1413eb",
+  "usage": {
+    "model": "opus[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 153,
+    "cacheReadInputTokens": 24140,
+    "contextWindow": 1000000,
+    "contextTokens": 24294,
+    "percentage": 2
+  }
+}

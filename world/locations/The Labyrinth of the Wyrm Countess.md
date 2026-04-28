@@ -1,6 +1,6 @@
 # The Labyrinth of the Wyrm Countess
 
-![Screenshot 2025-08-25 at 14.45.41.png](The%20Labyrinth%20of%20the%20Wyrm%20Countess/Screenshot_2025-08-25_at_14.45.41.png)
+![[The Labyrinth of the Wyrm Countess.png]]
 
 | **Room #1** | This room was once part of a holy temple, but was desecrated long ago. The altar and icons have been mutilated, and blasphemous living inscriptions crawl along the walls like infernal centipedes. Anyone under the effect of a Bless or similar spell is immune to them, anyone else must make a successful Wisdom save upon entering the room or take 2d6 points of damage. Someone has scrawled "The Circle of Traitors was here" on the south wall. |
 | --- | --- |

@@ -11,4 +11,4 @@ Could be related to the walls idea, where the walls game of thrones esque ice wa
     Super high altitute, but plain green areas, with perhaps rob bridges between parts. Powerful mages live here, allowing use of the teleportation circles to get there. Religious cites here as well. 
     
 
-![image.png](Frostmark/image.png)
+![[Frostmark.png]]

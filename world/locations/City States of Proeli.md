@@ -34,4 +34,4 @@ East of the city states:
 
 Current world map:
 
-![image.png](City%20States%20of%20Proeli/image.png)
+![[City States of Proeli.png]]

@@ -18,7 +18,7 @@ Exports: timber, crops.
 
 [Hawksreach](Ilkazan/Hawksreach%201d8c7339ad05800ab67ce21a7b660b04.md)
 
-![image.png](Ilkazan/image.png)
+![[Ilkazan.png]]
 
 ## Economy:
 

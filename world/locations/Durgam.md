@@ -19,7 +19,7 @@ Generate me a description of a fantasy town in a way that would be useful for a 
 - Include some information and a small daily gold cost for waterbreathing, and where this can be accessed in the city
 - Picture
     
-    ![image.png](Durgam/image.png)
+    ![[Durgam.png]]
     
 
 ---

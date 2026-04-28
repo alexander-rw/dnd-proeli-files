@@ -49,7 +49,7 @@ Thanks to the bridge, Loudwater spread out on both sides of the Delimbiyr. Thank
 
 Not shown to players - picture below. This can be the ‘old town’. only used as inspiration.
 
-![image.png](Loudwater/image.png)
+![[Loudwater.png]]
 
 Notable NPCs:
 

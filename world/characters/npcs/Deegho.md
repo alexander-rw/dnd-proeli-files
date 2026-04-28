@@ -4,4 +4,4 @@ Orc rogue who is second in command at [The Hanging Tree](../Locations/The%20Hang
 
 - English, no nonsense slightly cockney accent
 
-![image.png](Deegho/image.png)
+![[Deegho.png]]
